@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "starter",
+  "main": "y",
+  "repository": "https://github.com/designdev30/v2",
+  "author": "r",
+  "license": "n",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs" 
+   
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.40",
+    "vue": "^3.2.45"
+  }
+
+  
+}
